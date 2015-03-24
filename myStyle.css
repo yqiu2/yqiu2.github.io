@@ -1,0 +1,35 @@
+body {
+    padding-top: 20px;
+	background-color: #d0e4fe;
+}
+
+h1 {
+    color: #000000;
+}
+
+.outsidecontainer{
+padding: 0cm 2cm
+
+color: rgb(255,255,255)
+}
+
+.container{
+padding: 0cm 2cm
+}
+
+.navbar-default{
+padding: 0cm 2cm
+}
+
+h2 {
+    color: rgb(255,0,0);
+}
+
+p {
+margin: 0cm 2cm;
+
+}
+p.logos {
+	text-align: right;
+}
+
